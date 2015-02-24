@@ -1,0 +1,4 @@
+float myfloat? = 4.7;
+for (int i=0; i < x; i = i+1;) {
+	printf("hello");
+}
